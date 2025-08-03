@@ -1,37 +1,53 @@
 # Banoffee Pie Recipe
 
+This easy Banoffee Pie combines a crunchy graham cracker crust, soft and sweet dulce de leche, thick slices of fresh banana, and a mountain of billowy whipped cream. Everyone who tries a slice is instantly hooked.
+
+---
+
 ## Ingredients
-- 1 can (14 oz) sweetened condensed milk (for dulce de leche)
-- 1 1/2 cups (150g) digestive biscuit crumbs
-- 1/2 cup (115g) unsalted butter, melted
-- 3-4 ripe bananas
-- 1 1/2 cups (360ml) heavy cream
-- 2 tablespoons powdered sugar
-- 1 teaspoon vanilla extract
-- Grated chocolate or cocoa powder, for garnish
+
+### Crust
+- 1 1/2 cups (180g) graham cracker crumbs (about 12 full sheet graham crackers)
+- 1/4 cup (50g) granulated sugar
+- 6 Tablespoons (85g) unsalted butter, melted
+
+### Filling
+- 1 1/4 cups dulce de leche (see notes for making from sweetened condensed milk)
+- 2 large bananas, sliced
+
+### Whipped Cream
+- 2 cups (480ml) cold heavy cream or heavy whipping cream
+- 1/4 cup confectioners’ sugar or granulated sugar
+- 1 teaspoon pure vanilla extract
+
+### Optional Toppings
+- Chocolate shavings, chopped nuts, or toffee bits
+
+---
 
 ## Instructions
 
-### Step 1: Make Dulce de Leche
-- Place the unopened can of sweetened condensed milk in a pot of boiling water.
-- Boil for 2 to 3 hours, ensuring the can is always covered with water.
-- Let it cool completely before opening to get a thick caramel (dulce de leche).
+1. Preheat oven to 350°F (177°C).
+2. Make the crust: Grind graham crackers into fine crumbs if starting with full sheets. Mix crumbs, sugar, and melted butter until thick and sandy. Press mixture into an ungreased 9-inch pie dish to form crust. Bake for 15 minutes; cool for 15 minutes.
+3. Whip heavy cream, sugar, and vanilla with a mixer until medium peaks form (3-4 minutes).
+4. Spread dulce de leche over cooled crust.
+5. Arrange banana slices in 1-2 layers on top of dulce de leche.
+6. Spread whipped cream over bananas.
+7. Refrigerate pie uncovered for at least 2 hours and up to 1 day.
+8. Garnish with optional toppings before serving.
+9. Store leftovers covered in the refrigerator for up to 5 days.
 
-### Step 2: Prepare the Base
-- Mix the digestive biscuit crumbs with melted butter until well combined.
-- Press the mixture into the base of a 9-inch (23cm) pie dish.
-- Chill in the refrigerator for about 30 minutes to set.
+---
 
-### Step 3: Assemble
-- Spread the dulce de leche evenly over the biscuit base.
-- Slice bananas and arrange them over the caramel layer.
+## Notes
 
-### Step 4: Make the Cream Topping
-- Whip the heavy cream with powdered sugar and vanilla extract until soft peaks form.
-- Spread the whipped cream over the bananas.
+- **Dulce de Leche from Sweetened Condensed Milk:** Pour a can of sweetened condensed milk into a pie dish inside a roasting pan. Fill with hot water halfway up the pie dish. Cover loosely with foil. Bake at 350°F (177°C) for about 2 hours, adding more water after 1 hour. Let cool.
+- Use ripe but firm bananas to avoid a mushy pie.
+- For non-US locations, digestive biscuits can be used in place of graham crackers.
+- Pie crust and dulce de leche can be made in advance.
+- To prevent banana browning, lightly squeeze lemon juice on banana slices before layering.
 
-### Step 5: Garnish & Serve
-- Sprinkle grated chocolate or a light dusting of cocoa powder on top.
-- Chill the pie for at least 1 hour before serving for best results.
+---
 
-Enjoy your delicious homemade Banoffee Pie!
+Enjoy your delicious homemade Banoffee Pie!  
+[Full recipe source](https://sallysbakingaddiction.com/banoffee-pie/)
